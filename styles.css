@@ -1,0 +1,25 @@
+.author-title {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+#author-socialmedia-elements li {
+  background-size: cover;
+  display: inline-block;
+}
+
+#author-socialmedia-elements a {
+  height: 50px;
+  width: 50px;
+  display: block;
+}
+.author-wrapper {
+	text-align: center;
+}
+#author-socialmedia-elements{
+  padding:0;
+}
+
+.author-wrapper h2{
+  display:block;
+}
